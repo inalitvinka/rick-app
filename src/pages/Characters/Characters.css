@@ -1,0 +1,33 @@
+.characters-page {
+  font-size: 3rem;
+  display: flex;
+  gap: 2rem;
+}
+.characters-title {
+  color: #3131c9;
+  margin: 0 0 2rem 12.5rem;
+}
+.characters-list {
+    margin-top: 3rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    color: #202095;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 5rem;
+  }
+  .characters-item {
+    color: #2525b8;
+  }
+  .characters-item:hover {
+    color: #6161fb;
+  }
+  .characters-pag {
+    text-align: center;
+    font-size: 2rem;
+    color: #2525b8;
+    padding: 1rem 0 1rem 0;
+  }

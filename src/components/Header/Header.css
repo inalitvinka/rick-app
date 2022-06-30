@@ -1,0 +1,14 @@
+.nav-items {
+    display: flex;
+    align-items: center;
+    gap: 5rem;
+    margin: 3rem 0 3rem 0;
+  }
+  .nav-item:hover {
+    color: #6161fb;
+  }
+  .active {
+    color: #6161fb;
+    border-bottom: solid .3rem #6161fb;
+  }
+  

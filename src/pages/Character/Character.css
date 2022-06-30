@@ -1,0 +1,16 @@
+.character-title {
+    color: #3131c9;
+    padding: 2rem 0 .5rem 2rem;
+}
+.character-subtitle {
+    color: #202095;
+    padding-left: 2rem;
+    
+}
+.character-item {
+    color: #2525b8;
+    margin-bottom: 2.5rem;
+  }
+p {
+    margin-bottom: 0;
+}
